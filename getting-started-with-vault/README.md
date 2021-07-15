@@ -52,5 +52,3 @@ Once you have started the server, the below command demonstrates what a function
 should look like.
 
 ```bash
-
-export AWS_ACCESS_KEY_ID=AKIAS3TCEFUXH4KHA64O; export AWS_SECRET_ACCESS_KEY=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

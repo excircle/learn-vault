@@ -1,2 +1,3 @@
-# learn-vault
-A repository dedicated to learning HashiCorp Vault
+# Learning HashiCorp Vault
+
+This is a repository dedicated to notes and learning materials on HashiCorp Vault.
